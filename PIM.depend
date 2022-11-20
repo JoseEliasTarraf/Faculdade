@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668970313 source:c:\users\nasko\desktop\programa pim\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1668963407 source:c:\users\nasko\desktop\programa pim\pim\recurso.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<conio.h>
+
